@@ -40,13 +40,13 @@ Have fun :) :) :)
 ## Images
 
 Intellij run setup
-![Alt text](./images/2020-08-08 20_20_51-data-extractor.png?raw=true "Data extractor intellij")
+![Image 1](https://github.com/juliennix/data-extractor/blob/master/images/2020-08-08%2020_20_51-data-extractor.png?raw=true "Data extractor intellij")
 
 Neo4j all nodes of a java project example
-![Alt text](./images/2020-08-08 22_21_33-neo4j3.png?raw=true "Neo4j all nodes of a project example")
+![Image 2](https://github.com/juliennix/data-extractor/blob/master/images/2020-08-08%2022_21_33-neo4j3.png?raw=true "Neo4j all nodes of a project example")
 
 Neo4j import example
-![Alt text](./images/2020-08-08 22_15_26-neo4j_import.png?raw=true "Neo4j import example")
+![Image 3](https://github.com/juliennix/data-extractor/blob/master/images/2020-08-08%2022_15_26-neo4j_import.png?raw=true "Neo4j import example")
 
 Neo4j import extended example
-![Alt text](./images/2020-08-08 22_16_23-neo4j2.png?raw=true "Neo4j import extended example")
+![Image 4](https://github.com/juliennix/data-extractor/blob/master/images/2020-08-08%2022_16_23-neo4j2.png?raw=true "Neo4j import extended example")
