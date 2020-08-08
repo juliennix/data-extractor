@@ -36,3 +36,17 @@ match(import:import {import: 'import+packagePath'}) return import
 Fee free to play with it and look at how your code is structured.
 
 Have fun :) :) :) 
+
+## Images
+
+Intellij run setup
+![Alt text](./images/2020-08-08 20_20_51-data-extractor.png?raw=true "Data extractor intellij")
+
+Neo4j all nodes of a java project example
+![Alt text](./images/2020-08-08 22_21_33-neo4j3.png?raw=true "Neo4j all nodes of a project example")
+
+Neo4j import example
+![Alt text](./images/2020-08-08 22_15_26-neo4j_import.png?raw=true "Neo4j import example")
+
+Neo4j import extended example
+![Alt text](./images/2020-08-08 22_16_23-neo4j2.png?raw=true "Neo4j import extended example")
